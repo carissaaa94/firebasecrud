@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303393216506",
+    "project_id": "prakflutterfirebase-ded89",
+    "storage_bucket": "prakflutterfirebase-ded89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303393216506:android:481cbf088530d67508f643",
+        "android_client_info": {
+          "package_name": "com.example.carissa_praktikum6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA46G8xAWu16lmg_l-JgK9YvODhtZpMUiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
